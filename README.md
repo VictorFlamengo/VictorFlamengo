@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
+  <img src="https://cdn.simpleicons.org/node.js/0175C2" height="40" alt="dart logo"  />
 </div>
 
 <br clear="both">
