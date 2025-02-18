@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorFlamengo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFlamengo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div>
+<a href="https://github.com/VictorFlamengo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFlamengo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ###
