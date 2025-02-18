@@ -2,11 +2,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorFlamengo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
-<div>
-<a href="https://github.com/VictorFlamengo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFlamengo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ###
 
 <br clear="both">
@@ -34,3 +29,11 @@
 <br clear="both">
 
 ###
+
+## Contatos:
+
+<div>
+<a href="https://instagram.com/vqictor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:emanuelpsn07@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emanuel-victor-3657aa346/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
