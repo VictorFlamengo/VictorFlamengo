@@ -25,7 +25,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
 </div>
-
+<br>
+<hr>
+<br>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <br clear="both">
