@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorFlamengo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFlamengo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ###
@@ -25,11 +26,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
 </div>
-<br>
-<hr>
-<br>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-###
 
 <br clear="both">
 
