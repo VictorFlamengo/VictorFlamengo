@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda 1x por dia
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: "0 0 * * *"   # Roda todo dia à meia-noite
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -16,17 +16,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Snake (SVG para o ano todo)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: VictorFlamengo
-          outputs: dist/snake.svg
-
-      - name: Upload Snake
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # esse parâmetro faz pegar o ano inteiro
+          args: --year
 
       - name: Deploy Snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
