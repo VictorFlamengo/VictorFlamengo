@@ -58,8 +58,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VictorFlamengo/VictorFlamengo/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorFlamengo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+</div>
 
 ###
